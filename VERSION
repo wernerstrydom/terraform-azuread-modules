@@ -1,5 +1,6 @@
-tfmodgen=v0.1.0-rc1
-tfmodgen_commit=4e0ed94
+release=v3.9.0
+tfmodgen=b4a0f45
+tfmodgen_commit=b4a0f45
 provider=registry.terraform.io/hashicorp/azuread
 provider_version=3.9.0
 schema_digest=4a9b94e9d6e1bffb
